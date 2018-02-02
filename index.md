@@ -2,9 +2,9 @@
 Цель Rademade Webtech Documentation – синхронизация команды по стилю написания кода. 
 Rademade Webtech Documentation – результат обсуждения стиля написания кода со всеми членами команды.
 
-* [create an anchor](1)
-* [create an anchor](2)
-* [create an anchor](3)
-* [create an anchor](4)
-* [create an anchor](5)
-* [create an anchor](6)
+* [Раздел 1. Комментарии в коде](1)
+* [Раздел 2. Selector naming](2)
+* [Раздел 3. Структура проекта](3)
+* [Раздел 4. Группировка css свойств](4)
+* [Раздел 5. Sass intended styles](5)
+* [Раздел 6. Процесс выполнения задачи](6)
